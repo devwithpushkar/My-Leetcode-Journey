@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0874-walking-robot-simulation) |
+| [2070-most-beautiful-item-for-each-query](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Hash Table
 |  |
@@ -32,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2069-walking-robot-simulation-ii](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/2069-walking-robot-simulation-ii) |
+## Binary Search
+|  |
+| ------- |
+| [2070-most-beautiful-item-for-each-query](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/2070-most-beautiful-item-for-each-query) |
+## Sorting
+|  |
+| ------- |
+| [2070-most-beautiful-item-for-each-query](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/2070-most-beautiful-item-for-each-query) |
 <!---LeetCode Topics End-->
