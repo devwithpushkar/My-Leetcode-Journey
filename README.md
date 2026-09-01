@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/2070-most-beautiful-item-for-each-query) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Sorting
 |  |
 | ------- |
