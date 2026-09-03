@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2070-most-beautiful-item-for-each-query](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0410-split-array-largest-sum) |
+## Math
+|  |
+| ------- |
+| [3876-construct-uniform-parity-array-ii](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/3876-construct-uniform-parity-array-ii) |
 <!---LeetCode Topics End-->
