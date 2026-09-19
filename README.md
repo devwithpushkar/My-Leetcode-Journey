@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0268-missing-number) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0012-integer-to-roman) |
+| [0066-plus-one](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0836-rectangle-overlap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
