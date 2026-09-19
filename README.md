@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0074-search-a-2d-matrix) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0016-3sum-closest) |
 | [0268-missing-number](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0268-missing-number) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/2070-most-beautiful-item-for-each-query) |
 ## Linked List
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0016-3sum-closest) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0876-middle-of-the-linked-list) |
