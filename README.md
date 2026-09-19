@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3870-count-commas-in-range](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/3875-construct-uniform-parity-array-i) |
@@ -120,4 +122,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0268-missing-number) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
