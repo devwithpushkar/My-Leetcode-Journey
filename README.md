@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0061-rotate-list) |
 | [0203-remove-linked-list-elements](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0876-middle-of-the-linked-list) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0016-3sum-closest) |
+| [0061-rotate-list](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0061-rotate-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0876-middle-of-the-linked-list) |
