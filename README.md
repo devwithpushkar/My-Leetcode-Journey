@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0268-missing-number) |
 | [0874-walking-robot-simulation](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0874-walking-robot-simulation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0876-middle-of-the-linked-list) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0016-3sum-closest) |
 | [0061-rotate-list](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0876-middle-of-the-linked-list) |
