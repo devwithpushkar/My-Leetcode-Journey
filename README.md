@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0012-integer-to-roman) |
 | [0392-is-subsequence](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0657-robot-return-to-origin) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/2075-decode-the-slanted-ciphertext) |
 | [3498-reverse-degree-of-a-string](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/3498-reverse-degree-of-a-string) |
@@ -192,4 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0141-linked-list-cycle) |
+## Stack
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
