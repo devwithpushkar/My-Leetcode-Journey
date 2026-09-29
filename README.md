@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0410-split-array-largest-sum) |
 | [0874-walking-robot-simulation](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0874-walking-robot-simulation) |
+| [0989-add-to-array-form-of-integer](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0989-add-to-array-form-of-integer) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0836-rectangle-overlap) |
+| [0989-add-to-array-form-of-integer](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0989-add-to-array-form-of-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1401-circle-and-rectangle-overlapping) |
