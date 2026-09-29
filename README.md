@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0016-3sum-closest) |
+| [0148-sort-list](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0268-missing-number) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/2070-most-beautiful-item-for-each-query) |
 ## Linked List
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0237-delete-node-in-a-linked-list) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0016-3sum-closest) |
 | [0061-rotate-list](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0392-is-subsequence) |
@@ -204,4 +207,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
