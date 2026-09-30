@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0012-integer-to-roman) |
 | [0392-is-subsequence](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0657-robot-return-to-origin) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -202,11 +203,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Divide and Conquer
