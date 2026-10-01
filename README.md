@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0234-palindrome-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0876-middle-of-the-linked-list) |
 ## Bit Manipulation
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0234-palindrome-linked-list) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
