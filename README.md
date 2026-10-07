@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0086-partition-list) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0234-palindrome-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/3483-unique-3-digit-even-numbers) |
