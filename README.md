@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0410-split-array-largest-sum) |
+| [0766-toeplitz-matrix](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0766-toeplitz-matrix) |
 | [0874-walking-robot-simulation](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0874-walking-robot-simulation) |
 | [0989-add-to-array-form-of-integer](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0989-add-to-array-form-of-integer) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0074-search-a-2d-matrix) |
+| [0766-toeplitz-matrix](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0766-toeplitz-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Sliding Window
 |  |
