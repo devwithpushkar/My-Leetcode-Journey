@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2070-most-beautiful-item-for-each-query](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
 |  |
