@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1672-richest-customer-wealth](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0766-toeplitz-matrix](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0766-toeplitz-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1672-richest-customer-wealth](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1672-richest-customer-wealth) |
 ## Sliding Window
 |  |
 | ------- |
