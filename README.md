@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0066-plus-one) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0141-linked-list-cycle) |
