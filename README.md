@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0836-rectangle-overlap) |
 | [0989-add-to-array-form-of-integer](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0989-add-to-array-form-of-integer) |
@@ -290,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0022-generate-parentheses) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
