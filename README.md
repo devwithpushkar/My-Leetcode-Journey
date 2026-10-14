@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0874-walking-robot-simulation) |
+| [1929-concatenation-of-array](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1929-concatenation-of-array) |
 | [2069-walking-robot-simulation-ii](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/2075-decode-the-slanted-ciphertext) |
 | [3498-reverse-degree-of-a-string](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/3498-reverse-degree-of-a-string) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1929-concatenation-of-array](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
