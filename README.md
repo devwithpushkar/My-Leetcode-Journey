@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0410-split-array-largest-sum) |
 | [0766-toeplitz-matrix](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0766-toeplitz-matrix) |
 | [0874-walking-robot-simulation](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0874-walking-robot-simulation) |
+| [0905-sort-array-by-parity](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0905-sort-array-by-parity) |
 | [0989-add-to-array-form-of-integer](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0989-add-to-array-form-of-integer) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0268-missing-number) |
+| [0905-sort-array-by-parity](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0905-sort-array-by-parity) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/2070-most-beautiful-item-for-each-query) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Linked List
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0905-sort-array-by-parity) |
 ## Bit Manipulation
 |  |
 | ------- |
