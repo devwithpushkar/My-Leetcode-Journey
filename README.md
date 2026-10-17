@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1512-number-of-good-pairs](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0268-missing-number) |
 | [0874-walking-robot-simulation](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0874-walking-robot-simulation) |
+| [1512-number-of-good-pairs](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1486-xor-operation-in-an-array](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1486-xor-operation-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3524-find-x-value-of-array-i](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -301,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0069-sqrtx) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
