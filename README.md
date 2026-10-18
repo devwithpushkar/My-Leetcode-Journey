@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0410-split-array-largest-sum) |
 | [0766-toeplitz-matrix](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0766-toeplitz-matrix) |
 | [0874-walking-robot-simulation](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0874-walking-robot-simulation) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0874-walking-robot-simulation](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0874-walking-robot-simulation) |
 | [1512-number-of-good-pairs](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0905-sort-array-by-parity) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/2070-most-beautiful-item-for-each-query) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -228,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0905-sort-array-by-parity) |
