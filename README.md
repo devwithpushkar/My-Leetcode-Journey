@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0032-longest-valid-parentheses) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0219-contains-duplicate-ii) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/devwithpushkar/My-Leetcode-Journey/tree/master/0268-missing-number) |
